@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
+
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHyeonMIN"/>
 </div>
