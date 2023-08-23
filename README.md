@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ---
 
 <div>
-	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Top-Notcher&show_icons=true&include_all_commits=true&count_private=true"/>
+	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minit97&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
 
 <!-- <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopNocher"/>
-	<img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopNocher&layout=compact&theme=dark&hide=jupyter%20notebook" align = "center"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minit97"/>
+	<img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minit97&layout=compact&theme=dark&hide=jupyter%20notebook" align = "center"/>
 </div> -->
