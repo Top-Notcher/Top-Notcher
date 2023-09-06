@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div>
+	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minit97&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
 -->
 
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
@@ -22,11 +25,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ---
 
-<div>
-	 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minit97&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
-
-<!-- <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minit97"/>
-	<img height = "175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minit97&layout=compact&theme=dark&hide=jupyter%20notebook" align = "center"/>
-</div> -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dndb4902)](https://solved.ac/dndb4902)<br/>
+<img height = "175em" src="https://github-readme-stats.vercel.app/api?username=minit97&show_icons=true"/>
+  
