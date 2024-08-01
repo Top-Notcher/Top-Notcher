@@ -14,15 +14,15 @@
     <h3>💎Front-End💎</h3>
       <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux">
     <h3>🍚Back-End🍚</h3>
-      <img src="https://skillicons.dev/icons?i=java,spring,gradle,hibernate,nestjs">
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nestjs">
     <h3>🧶Databases🧶</h3>
      <img src="https://skillicons.dev/icons?i=mysql,mongodb">
     <h3>🥤DevOps🥤</h3>
-     <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,dynamodb">
+     <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,dynamodb,gradle,npm">
     <h3>🏏Tools🏏</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,notion">
     <h3>🎡ETC🎡</h3>
-      <img src="https://skillicons.dev/icons?i=python,">
+      <img src="https://skillicons.dev/icons?i=python">
    </div>
  </div>
  
