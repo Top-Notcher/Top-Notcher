@@ -1,11 +1,31 @@
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=fff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
----
+<div align=center>
+ 
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minit97&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minit97&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minit97&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">    
+  </div>
+ 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dndb4902)](https://solved.ac/dndb4902)<br/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minit97&show_icons=true&include_all_commits=true&count_private=true"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dndb4902)](https://solved.ac/dndb4902/)
+
+
+  <div align=center>
+    <h3>💎Front-End💎</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux">
+    <h3>🍚Back-End🍚</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,gradle,hibernate,nestjs">
+    <h3>🧶Databases🧶</h3>
+     <img src="https://skillicons.dev/icons?i=mysql,mongodb">
+    <h3>🥤DevOps🥤</h3>
+     <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,dynamodb">
+    <h3>🏏Tools🏏</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,notion">
+    <h3>🎡ETC🎡</h3>
+      <img src="https://skillicons.dev/icons?i=python,">
+   </div>
+ </div>
+ 
  
   
+   
