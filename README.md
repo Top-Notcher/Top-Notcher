@@ -18,11 +18,15 @@
     <h3>🧶Databases🧶</h3>
      <img src="https://skillicons.dev/icons?i=mysql,mongodb">
     <h3>🥤DevOps🥤</h3>
-     <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,dynamodb,gradle,npm">
+     <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,dynamodb">
     <h3>🏏Tools🏏</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,notion">
     <h3>🎡ETC🎡</h3>
-      <img src="https://skillicons.dev/icons?i=python">
+      <img src="https://skillicons.dev/icons?i=python,gradle,npm">
+      <br />
+      <div>
+       <img alt="socketio" src ="https://img.shields.io/badge/socket_io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+      </div>
    </div>
  </div>
  
